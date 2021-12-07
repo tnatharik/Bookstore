@@ -30,4 +30,4 @@
 		? Save this as a preset for future projects? No
 		○ cd newbookstores
 		○ npm run serve
-![image](https://user-images.githubusercontent.com/61674880/144953169-a3934800-1abb-4967-a66f-9e2264748e12.png)
+
